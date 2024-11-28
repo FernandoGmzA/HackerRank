@@ -1,3 +1,3 @@
-import migratoryBirds from "./Excercises/migratoryBirds.js";
+import dayOfProgrammer from "./Excercises/dayOfProgrammer.js";
 
-migratoryBirds([1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4]);
+console.log(dayOfProgrammer(2400));
