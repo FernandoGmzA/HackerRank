@@ -1,3 +1,3 @@
-import bonAppetit from "./Excercises/bonAppetite.js";
+import possibleChanges from "./Excercises/usernameChanges.js";
 
-bonAppetit([3, 10, 2, 9], 1, 12);
+possibleChanges(["foo", "bar", "baz"]);
