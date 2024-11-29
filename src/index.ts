@@ -1,3 +1,3 @@
-import dayOfProgrammer from "./Excercises/dayOfProgrammer.js";
+import bonAppetit from "./Excercises/bonAppetite.js";
 
-console.log(dayOfProgrammer(2400));
+bonAppetit([3, 10, 2, 9], 1, 12);
