@@ -1,3 +1,3 @@
-import miniMaxSum from "./OneMonthPreparationKit/Week 1/miniMaxSum.js";
+import timeConversion from "./OneMonthPreparationKit/Week 1/TimeConvertion.js";
 
-miniMaxSum([256741038, 623958417, 467905213, 714532089, 938071625]);
+timeConversion("07:05:45PM");
