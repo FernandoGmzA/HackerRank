@@ -1,3 +1,3 @@
-import plusMinus from "./OneMonthPreparationKit/plusMinus.js";
+import miniMaxSum from "./OneMonthPreparationKit/Week 1/miniMaxSum.js";
 
-plusMinus([1, 1, 0, -1, -1]);
+miniMaxSum([256741038, 623958417, 467905213, 714532089, 938071625]);
